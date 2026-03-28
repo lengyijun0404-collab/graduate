@@ -18,4 +18,4 @@
 - 给出测试步骤
 
 ## 必读文件
-- docs/main prd.md
+- docs/main_prd.md
